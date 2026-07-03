@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "JOKER-MD",
+  "description": "Javascript WhatsApp bot made by ᚚ 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
   "logo": "https://files.catbox.moe/6zd0ru.jpg",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["JOKER-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -17,9 +17,9 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: JOKER-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "JOKER-MD"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -27,14 +27,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 923143581887)",
       "required": false,
-      "value": "923427582273"
+      "value": "923143581887"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: ᚚ 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "ᚚ 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -142,9 +142,9 @@
       "value": "*_@user joined the group, welcome! 🎉_*"
     },
     "GOODBYE_MESSAGE": {
-      "description": "Goodbye message with placeholders: @user, @group, @desc, @count, @bot, @time (Default: *_@user has left the group, we will miss them! 👋_*)",
+      "description": "Goodbye message with placeholders: @user, @group, @desc, @count, @bot, @time (Default: *_@user has left the group, we will not miss them! 👋_*)",
       "required": false,
-      "value": "*_@user has left the group, we will miss them! 👋_*"
+      "value": "*_@user has left the group, we will not miss them! 👋_*"
     },
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© ᚚ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋*"
     }
   },
   "buildpacks": [
