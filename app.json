@@ -1,7 +1,7 @@
 {
   "name": "JOKER-MD",
   "description": "Javascript WhatsApp bot made by ᚚ 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
-  "logo": "https://files.catbox.moe/6zd0ru.jpg",
+  "logo": "Picsart_24-02-10_11-39-14-892.jpg",
   "keywords": ["JOKER-MD"],
   "success_url": "/",
   "stack": "container",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/6zd0ru.jpg"
+      "value": "Picsart_24-02-10_11-39-14-892.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
