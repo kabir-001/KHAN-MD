@@ -16,6 +16,16 @@
       "required": false,
       "value": "."
     },
+    "CHANNEL_NAME": {
+  "description": "WhatsApp Channel Name",
+  "required": false,
+  "value": "ᚚ 𝐉𝐎𝐊𝐄𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 🃏🥀"
+},
+"CHANNEL_URL": {
+  "description": "WhatsApp Channel Link",
+  "required": false,
+  "value": "https://whatsapp.com/channel/0029VaZnOTr5vKA6nXxuWw3U"
+}
     "BOT_NAME": {
       "description": "Your bot name (Default: JOKER-MD)",
       "required": false,
